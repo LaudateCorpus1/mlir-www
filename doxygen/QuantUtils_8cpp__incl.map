@@ -1,0 +1,31 @@
+<map id="lib/Dialect/Tosa/Utils/QuantUtils.cpp" name="lib/Dialect/Tosa/Utils/QuantUtils.cpp">
+<area shape="rect" id="node2" href="$QuantUtils_8h.html" title="mlir/Dialect/Tosa/Utils\l/QuantUtils.h" alt="" coords="2972,95,3137,136"/>
+<area shape="rect" id="node3" href="$TosaOps_8h.html" title="mlir/Dialect/Tosa/IR\l/TosaOps.h" alt="" coords="858,184,1006,225"/>
+<area shape="rect" id="node44" href="$FakeQuantSupport_8h.html" title="mlir/Dialect/Quant\l/FakeQuantSupport.h" alt="" coords="2976,184,3133,225"/>
+<area shape="rect" id="node46" href="$UniformSupport_8h.html" title="mlir/Dialect/Quant\l/UniformSupport.h" alt="" coords="3233,452,3375,493"/>
+<area shape="rect" id="node4" href="$QuantOps_8h.html" title="mlir/Dialect/Quant\l/QuantOps.h" alt="" coords="2549,541,2691,583"/>
+<area shape="rect" id="node15" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="692,631,879,672"/>
+<area shape="rect" id="node20" href="$Dialect_2Tensor_2IR_2Tensor_8h.html" title="mlir/Dialect/Tensor\l/IR/Tensor.h" alt="" coords="1119,273,1263,315"/>
+<area shape="rect" id="node24" href="$InferTypeOpInterface_8h.html" title="mlir/Interfaces/InferType\lOpInterface.h" alt="" coords="1583,541,1764,583"/>
+<area shape="rect" id="node37" href="$Traits_8h.html" title="mlir/Dialect/Traits.h" alt="" coords="5,370,155,397"/>
+<area shape="rect" id="node38" href="$LoopLikeInterface_8h.html" title="mlir/Interfaces/LoopLike\lInterface.h" alt="" coords="117,273,296,315"/>
+<area shape="rect" id="node5" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="2930,809,3075,836"/>
+<area shape="rect" id="node6" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2282,638,2417,665"/>
+<area shape="rect" id="node7" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="800,727,963,754"/>
+<area shape="rect" id="node8" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1013,809,1139,836"/>
+<area shape="rect" id="node9" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="2097,638,2257,665"/>
+<area shape="rect" id="node11" href="$IR_2Types_8h.html" title="mlir/IR/Types.h" alt="" coords="3449,809,3567,836"/>
+<area shape="rect" id="node10" href="$BuiltinAttributeInterfaces_8h.html" title="mlir/IR/BuiltinAttribute\lInterfaces.h" alt="" coords="3004,720,3172,761"/>
+<area shape="rect" id="node12" href="$SubElementInterfaces_8h.html" title="mlir/IR/SubElementInterfaces.h" alt="" coords="3247,727,3471,754"/>
+<area shape="rect" id="node21" href="$Arithmetic_8h.html" title="mlir/Dialect/Arithmetic\l/IR/Arithmetic.h" alt="" coords="860,452,1031,493"/>
+<area shape="rect" id="node22" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="1156,549,1359,575"/>
+<area shape="rect" id="node23" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="515,549,741,575"/>
+<area shape="rect" id="node30" href="$Complex_8h.html" title="mlir/Dialect/Complex\l/IR/Complex.h" alt="" coords="1023,363,1183,404"/>
+<area shape="rect" id="node31" href="$ReshapeOpsUtils_8h.html" title="mlir/Dialect/Utils\l/ReshapeOpsUtils.h" alt="" coords="1258,452,1406,493"/>
+<area shape="rect" id="node32" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="311,452,510,493"/>
+<area shape="rect" id="node33" href="$TilingInterface_8h.html" title="mlir/Interfaces/TilingInterface.h" alt="" coords="1529,370,1756,397"/>
+<area shape="rect" id="node34" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="1583,452,1763,493"/>
+<area shape="rect" id="node25" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1887,727,2023,754"/>
+<area shape="rect" id="node26" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1157,638,1307,665"/>
+<area shape="rect" id="node45" href="$QuantTypes_8h.html" title="mlir/Dialect/Quant\l/QuantTypes.h" alt="" coords="2984,541,3125,583"/>
+</map>

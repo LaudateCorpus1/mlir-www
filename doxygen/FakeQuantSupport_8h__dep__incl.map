@@ -1,0 +1,10 @@
+<map id="include/mlir/Dialect/Quant/FakeQuantSupport.h" name="include/mlir/Dialect/Quant/FakeQuantSupport.h">
+<area shape="rect" id="node2" href="$QuantUtils_8h.html" title="include/mlir/Dialect\l/Tosa/Utils/QuantUtils.h" alt="" coords="449,95,623,136"/>
+<area shape="rect" id="node8" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="647,95,854,136"/>
+<area shape="rect" id="node9" href="$FakeQuantSupport_8cpp.html" title="lib/Dialect/Quant/Utils\l/FakeQuantSupport.cpp" alt="" coords="878,95,1050,136"/>
+<area shape="rect" id="node3" href="$TosaToLinalgNamedPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgNamedPass.cpp" alt="" coords="5,184,216,225"/>
+<area shape="rect" id="node4" href="$TosaToLinalgPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgPass.cpp" alt="" coords="241,184,442,225"/>
+<area shape="rect" id="node5" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="467,184,605,225"/>
+<area shape="rect" id="node6" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="629,184,840,225"/>
+<area shape="rect" id="node7" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="864,184,1019,225"/>
+</map>

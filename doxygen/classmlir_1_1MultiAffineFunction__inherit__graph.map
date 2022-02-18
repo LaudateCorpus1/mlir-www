@@ -1,0 +1,5 @@
+<map id="mlir::MultiAffineFunction" name="mlir::MultiAffineFunction">
+<area shape="rect" id="node2" href="$classmlir_1_1IntegerPolyhedron.html" title="An integer polyhedron is the set of solutions to a list of affine constraints over n integer&#45;valued v..." alt="" coords="17,155,192,181"/>
+<area shape="rect" id="node3" href="$classmlir_1_1PresburgerLocalSpace.html" title="Extension of PresburgerSpace supporting Local identifiers. " alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PresburgerSpace.html" title="PresburgerSpace is a tuple of identifiers with information about what kind they correspond to..." alt="" coords="22,5,187,32"/>
+</map>

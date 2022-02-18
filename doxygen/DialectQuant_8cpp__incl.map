@@ -1,0 +1,13 @@
+<map id="lib/Bindings/Python/DialectQuant.cpp" name="lib/Bindings/Python/DialectQuant.cpp">
+<area shape="rect" id="node2" href="$Quant_8h.html" title="mlir&#45;c/Dialect/Quant.h" alt="" coords="1118,273,1282,300"/>
+<area shape="rect" id="node3" href="$c_2IR_8h.html" title="mlir&#45;c/IR.h" alt="" coords="532,423,620,449"/>
+<area shape="rect" id="node9" href="$PybindAdaptors_8h.html" title="mlir/Bindings/Python\l/PybindAdaptors.h" alt="" coords="595,95,752,136"/>
+<area shape="rect" id="node8" href="$c_2Registration_8h.html" title="mlir&#45;c/Registration.h" alt="" coords="1118,348,1271,375"/>
+<area shape="rect" id="node6" href="$c_2Support_8h.html" title="mlir&#45;c/Support.h" alt="" coords="311,497,436,524"/>
+<area shape="rect" id="node13" href="$Interop_8h.html" title="mlir&#45;c/Bindings/Python\l/Interop.h" alt="" coords="5,184,173,225"/>
+<area shape="rect" id="node15" href="$c_2AffineExpr_8h.html" title="mlir&#45;c/AffineExpr.h" alt="" coords="397,348,539,375"/>
+<area shape="rect" id="node16" href="$c_2AffineMap_8h.html" title="mlir&#45;c/AffineMap.h" alt="" coords="449,273,589,300"/>
+<area shape="rect" id="node17" href="$c_2ExecutionEngine_8h.html" title="mlir&#45;c/ExecutionEngine.h" alt="" coords="62,348,245,375"/>
+<area shape="rect" id="node18" href="$c_2IntegerSet_8h.html" title="mlir&#45;c/IntegerSet.h" alt="" coords="230,273,373,300"/>
+<area shape="rect" id="node19" href="$include_2mlir-c_2Pass_8h.html" title="mlir&#45;c/Pass.h" alt="" coords="269,348,373,375"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="include/mlir/Dialect/Tensor/Transforms/BufferizableOpInterfaceImpl.h" name="include/mlir/Dialect/Tensor/Transforms/BufferizableOpInterfaceImpl.h">
+<area shape="rect" id="node2" href="$ComprehensiveBufferizePass_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize\lPass.cpp" alt="" coords="5,109,268,165"/>
+<area shape="rect" id="node3" href="$Tensor_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/BufferizableOp\lInterfaceImpl.cpp" alt="" coords="292,109,491,165"/>
+<area shape="rect" id="node4" href="$Tensor_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/Bufferize.cpp" alt="" coords="515,117,702,158"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="include/mlir&#45;c/Registration.h" name="include/mlir&#45;c/Registration.h">
+<area shape="rect" id="node2" href="$CAPI_2Registration_8h.html" title="include/mlir/CAPI/Registration.h" alt="" coords="1791,87,2017,114"/>
+<area shape="rect" id="node15" href="$c_2Dialect_2Async_8h.html" title="include/mlir&#45;c/Dialect\l/Async.h" alt="" coords="363,80,523,121"/>
+<area shape="rect" id="node17" href="$GPU_8h.html" title="include/mlir&#45;c/Dialect\l/GPU.h" alt="" coords="573,80,733,121"/>
+<area shape="rect" id="node19" href="$c_2Dialect_2Linalg_8h.html" title="include/mlir&#45;c/Dialect\l/Linalg.h" alt="" coords="1029,80,1189,121"/>
+<area shape="rect" id="node22" href="$c_2Dialect_2LLVM_8h.html" title="include/mlir&#45;c/Dialect\l/LLVM.h" alt="" coords="1368,80,1528,121"/>
+<area shape="rect" id="node23" href="$c_2Dialect_2PDL_8h.html" title="include/mlir&#45;c/Dialect\l/PDL.h" alt="" coords="2652,80,2812,121"/>
+<area shape="rect" id="node25" href="$Quant_8h.html" title="include/mlir&#45;c/Dialect\l/Quant.h" alt="" coords="2933,80,3093,121"/>
+<area shape="rect" id="node27" href="$c_2Dialect_2SCF_8h.html" title="include/mlir&#45;c/Dialect\l/SCF.h" alt="" coords="1588,80,1748,121"/>
+<area shape="rect" id="node28" href="$c_2Dialect_2Shape_8h.html" title="include/mlir&#45;c/Dialect\l/Shape.h" alt="" coords="2041,80,2201,121"/>
+<area shape="rect" id="node29" href="$c_2Dialect_2SparseTensor_8h.html" title="include/mlir&#45;c/Dialect\l/SparseTensor.h" alt="" coords="3117,80,3277,121"/>
+<area shape="rect" id="node32" href="$Standard_8h.html" title="include/mlir&#45;c/Dialect\l/Standard.h" alt="" coords="2225,80,2385,121"/>
+<area shape="rect" id="node33" href="$c_2Dialect_2Tensor_8h.html" title="include/mlir&#45;c/Dialect\l/Tensor.h" alt="" coords="2420,80,2580,121"/>
+<area shape="rect" id="node34" href="$AllPassesRegistration_8cpp.html" title="lib/Bindings/Python\l/AllPassesRegistration.cpp" alt="" coords="3301,80,3493,121"/>
+<area shape="rect" id="node35" href="$IRCore_8cpp.html" title="lib/Bindings/Python\l/IRCore.cpp" alt="" coords="3517,80,3664,121"/>
+<area shape="rect" id="node36" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="3688,80,3843,121"/>
+<area shape="rect" id="node3" href="$CAPI_2Dialect_2Async_8cpp.html" title="lib/CAPI/Dialect/Async.cpp" alt="" coords="347,177,539,203"/>
+<area shape="rect" id="node4" href="$GPU_8cpp.html" title="lib/CAPI/Dialect/GPU.cpp" alt="" coords="563,177,744,203"/>
+<area shape="rect" id="node5" href="$Linalg_8cpp.html" title="lib/CAPI/Dialect/Linalg.cpp" alt="" coords="1109,177,1301,203"/>
+<area shape="rect" id="node6" href="$LLVM_8cpp.html" title="lib/CAPI/Dialect/LLVM.cpp" alt="" coords="1325,177,1512,203"/>
+<area shape="rect" id="node7" href="$CAPI_2Dialect_2PDL_8cpp.html" title="lib/CAPI/Dialect/PDL.cpp" alt="" coords="2643,177,2821,203"/>
+<area shape="rect" id="node8" href="$Quant_8cpp.html" title="lib/CAPI/Dialect/Quant.cpp" alt="" coords="3016,177,3208,203"/>
+<area shape="rect" id="node9" href="$CAPI_2Dialect_2SCF_8cpp.html" title="lib/CAPI/Dialect/SCF.cpp" alt="" coords="1537,177,1711,203"/>
+<area shape="rect" id="node10" href="$CAPI_2Dialect_2Shape_8cpp.html" title="lib/CAPI/Dialect/Shape.cpp" alt="" coords="1971,177,2165,203"/>
+<area shape="rect" id="node11" href="$SparseTensor_8cpp.html" title="lib/CAPI/Dialect/SparseTensor.cpp" alt="" coords="3233,177,3471,203"/>
+<area shape="rect" id="node12" href="$Standard_8cpp.html" title="lib/CAPI/Dialect/Standard.cpp" alt="" coords="2189,177,2400,203"/>
+<area shape="rect" id="node13" href="$Tensor_8cpp.html" title="lib/CAPI/Dialect/Tensor.cpp" alt="" coords="2424,177,2619,203"/>
+<area shape="rect" id="node14" href="$DialectHandle_8cpp.html" title="lib/CAPI/IR/DialectHandle.cpp" alt="" coords="1735,177,1947,203"/>
+<area shape="rect" id="node16" href="$Bindings_2Python_2AsyncPasses_8cpp.html" title="lib/Bindings/Python\l/AsyncPasses.cpp" alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node18" href="$Bindings_2Python_2GPUPasses_8cpp.html" title="lib/Bindings/Python\l/GPUPasses.cpp" alt="" coords="176,169,323,211"/>
+<area shape="rect" id="node20" href="$DialectLinalg_8cpp.html" title="lib/Bindings/Python\l/DialectLinalg.cpp" alt="" coords="939,169,1085,211"/>
+<area shape="rect" id="node21" href="$Bindings_2Python_2LinalgPasses_8cpp.html" title="lib/Bindings/Python\l/LinalgPasses.cpp" alt="" coords="768,169,915,211"/>
+<area shape="rect" id="node24" href="$DialectPDL_8cpp.html" title="lib/Bindings/Python\l/DialectPDL.cpp" alt="" coords="2845,169,2992,211"/>
+<area shape="rect" id="node26" href="$DialectQuant_8cpp.html" title="lib/Bindings/Python\l/DialectQuant.cpp" alt="" coords="3496,169,3643,211"/>
+<area shape="rect" id="node30" href="$DialectSparseTensor_8cpp.html" title="lib/Bindings/Python\l/DialectSparseTensor.cpp" alt="" coords="3667,169,3851,211"/>
+<area shape="rect" id="node31" href="$Bindings_2Python_2SparseTensorPasses_8cpp.html" title="lib/Bindings/Python\l/SparseTensorPasses.cpp" alt="" coords="3875,169,4058,211"/>
+</map>

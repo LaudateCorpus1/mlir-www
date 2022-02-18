@@ -1,0 +1,7 @@
+<map id="mlir::pdll::ast::VariableDecl" name="mlir::pdll::ast::VariableDecl">
+<area shape="rect" id="node2" href="$classmlir_1_1pdll_1_1ast_1_1Node_1_1NodeBase.html" title="mlir::pdll::ast::Node\l::NodeBase\&lt; VariableDecl,\l Decl \&gt;" alt="" coords="606,17,803,73"/>
+<area shape="rect" id="node3" href="$classmlir_1_1pdll_1_1ast_1_1Decl.html" title="This class represents the base Decl node. " alt="" coords="224,5,369,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1pdll_1_1ast_1_1Node.html" title="This class represents a base AST node. " alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node5" href="$classmlir_1_1pdll_1_1ast_1_1Node_1_1NodeBase.html" title="This CRTP class provides several utilies when defining new AST nodes. " alt="" coords="205,57,388,98"/>
+<area shape="rect" id="node6" href="$classBaseT.html" title="BaseT" alt="" coords="49,64,112,91"/>
+</map>

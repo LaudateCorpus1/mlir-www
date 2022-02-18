@@ -1,0 +1,25 @@
+<map id="include/mlir/IR/RegionGraphTraits.h" name="include/mlir/IR/RegionGraphTraits.h">
+<area shape="rect" id="node2" href="$Dominance_8h.html" title="include/mlir/IR/Dominance.h" alt="" coords="1906,102,2113,129"/>
+<area shape="rect" id="node21" href="$ByteCode_8cpp.html" title="lib/Rewrite/ByteCode.cpp" alt="" coords="2137,102,2322,129"/>
+<area shape="rect" id="node22" href="$ModuleTranslation_8cpp.html" title="lib/Target/LLVMIR/Module\lTranslation.cpp" alt="" coords="2346,95,2529,136"/>
+<area shape="rect" id="node23" href="$SerializeOps_8cpp.html" title="lib/Target/SPIRV/Serialization\l/SerializeOps.cpp" alt="" coords="2553,95,2761,136"/>
+<area shape="rect" id="node24" href="$RegionUtils_8cpp.html" title="lib/Transforms/Utils\l/RegionUtils.cpp" alt="" coords="2786,95,2934,136"/>
+<area shape="rect" id="node3" href="$BufferUtils_8h.html" title="include/mlir/Dialect\l/Bufferization/Transforms\l/BufferUtils.h" alt="" coords="457,184,642,240"/>
+<area shape="rect" id="node8" href="$AffineScalarReplacement_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineScalarReplacement.cpp" alt="" coords="666,191,958,233"/>
+<area shape="rect" id="node9" href="$Dialect_2Affine_2Utils_2Utils_8cpp.html" title="lib/Dialect/Affine\l/Utils/Utils.cpp" alt="" coords="983,191,1113,233"/>
+<area shape="rect" id="node10" href="$OneShotAnalysis_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/OneShotAnalysis.cpp" alt="" coords="1138,191,1377,233"/>
+<area shape="rect" id="node11" href="$LinalgInterfaceImpl_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/LinalgInterfaceImpl.cpp" alt="" coords="1401,184,1588,240"/>
+<area shape="rect" id="node12" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="1612,191,1783,233"/>
+<area shape="rect" id="node13" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1807,191,1990,233"/>
+<area shape="rect" id="node14" href="$HoistPadding_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/HoistPadding.cpp" alt="" coords="2014,191,2229,233"/>
+<area shape="rect" id="node15" href="$VectorTransferOpTransforms_8cpp.html" title="lib/Dialect/Vector\l/Transforms/VectorTransfer\lOpTransforms.cpp" alt="" coords="2253,184,2448,240"/>
+<area shape="rect" id="node16" href="$Dominance_8cpp.html" title="lib/IR/Dominance.cpp" alt="" coords="2472,199,2632,225"/>
+<area shape="rect" id="node17" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="2656,199,2787,225"/>
+<area shape="rect" id="node18" href="$ControlFlowSink_8cpp.html" title="lib/Transforms/ControlFlow\lSink.cpp" alt="" coords="2811,191,3005,233"/>
+<area shape="rect" id="node19" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="3029,199,3200,225"/>
+<area shape="rect" id="node20" href="$ControlFlowSinkUtils_8cpp.html" title="lib/Transforms/Utils\l/ControlFlowSinkUtils.cpp" alt="" coords="3225,191,3413,233"/>
+<area shape="rect" id="node4" href="$Arithmetic_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/Arithmetic\l/Transforms/BufferizableOpInterface\lImpl.cpp" alt="" coords="5,288,261,344"/>
+<area shape="rect" id="node5" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="285,295,536,337"/>
+<area shape="rect" id="node6" href="$BufferOptimizations_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferOptimizations.cpp" alt="" coords="560,295,819,337"/>
+<area shape="rect" id="node7" href="$BufferUtils_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferUtils.cpp" alt="" coords="842,295,1041,337"/>
+</map>

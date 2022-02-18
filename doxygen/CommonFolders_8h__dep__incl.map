@@ -1,0 +1,7 @@
+<map id="include/mlir/Dialect/CommonFolders.h" name="include/mlir/Dialect/CommonFolders.h">
+<area shape="rect" id="node2" href="$ArithmeticOps_8cpp.html" title="lib/Dialect/Arithmetic\l/IR/ArithmeticOps.cpp" alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$ControlFlowOps_8cpp.html" title="lib/Dialect/ControlFlow\l/IR/ControlFlowOps.cpp" alt="" coords="193,95,365,136"/>
+<area shape="rect" id="node4" href="$Dialect_2Shape_2IR_2Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="389,95,539,136"/>
+<area shape="rect" id="node5" href="$SPIRVCanonicalization_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVCanonicalization.cpp" alt="" coords="563,95,762,136"/>
+<area shape="rect" id="node6" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="786,95,961,136"/>
+</map>

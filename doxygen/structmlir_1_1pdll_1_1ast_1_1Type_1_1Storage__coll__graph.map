@@ -1,0 +1,4 @@
+<map id="mlir::pdll::ast::Type::Storage" name="mlir::pdll::ast::Type::Storage">
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeID.html" title="This class provides an efficient unique identifier for a specific C++ type. " alt="" coords="187,13,287,39"/>
+</map>

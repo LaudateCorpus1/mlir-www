@@ -1,0 +1,7 @@
+<map id="mlir::FlatAffineValueConstraints" name="mlir::FlatAffineValueConstraints">
+<area shape="rect" id="node6" href="$classmlir_1_1FlatAffineRelation.html" title="A FlatAffineRelation represents a set of ordered pairs (domain &#45;&gt; range) where &quot;domain&quot; and &quot;range&quot; a..." alt="" coords="34,379,205,405"/>
+<area shape="rect" id="node2" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="23,229,215,256"/>
+<area shape="rect" id="node3" href="$classmlir_1_1IntegerPolyhedron.html" title="An integer polyhedron is the set of solutions to a list of affine constraints over n integer&#45;valued v..." alt="" coords="32,155,207,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1PresburgerLocalSpace.html" title="Extension of PresburgerSpace supporting Local identifiers. " alt="" coords="20,80,219,107"/>
+<area shape="rect" id="node5" href="$classmlir_1_1PresburgerSpace.html" title="PresburgerSpace is a tuple of identifiers with information about what kind they correspond to..." alt="" coords="37,5,202,32"/>
+</map>

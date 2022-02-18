@@ -1,0 +1,14 @@
+<map id="VectorizePadOpUserPattern&lt; OpTy &gt;" name="VectorizePadOpUserPattern&lt; OpTy &gt;">
+<area shape="rect" id="node8" href="$structVectorizePadOpUserPattern.html" title="VectorizePadOpUserPattern\l\&lt; tensor::InsertSliceOp \&gt;" alt="" coords="1807,5,2006,47"/>
+<area shape="rect" id="node10" href="$structVectorizePadOpUserPattern.html" title="VectorizePadOpUserPattern\l\&lt; vector::TransferReadOp \&gt;" alt="" coords="1805,71,2008,112"/>
+<area shape="rect" id="node12" href="$structVectorizePadOpUserPattern.html" title="VectorizePadOpUserPattern\l\&lt; vector::TransferWriteOp \&gt;" alt="" coords="1804,136,2009,177"/>
+<area shape="rect" id="node2" href="$structmlir_1_1OpRewritePattern.html" title="mlir::OpRewritePattern\l\&lt; tensor::PadOp \&gt;" alt="" coords="1151,71,1320,112"/>
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title="mlir::detail::OpOrInterface\lRewritePatternBase\&lt; tensor\l::PadOp \&gt;" alt="" coords="772,26,977,82"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,65,308,91"/>
+<area shape="rect" id="node6" href="$structmlir_1_1detail_1_1OpOrInterfaceRewritePatternBase.html" title="OpOrInterfaceRewritePatternBase is a wrapper around RewritePattern that allows for matching and rewri..." alt="" coords="357,87,599,128"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,65,108,91"/>
+<area shape="rect" id="node7" href="$structmlir_1_1OpRewritePattern.html" title="OpRewritePattern is a wrapper around RewritePattern that allows for matching and rewriting against an..." alt="" coords="790,107,959,148"/>
+<area shape="rect" id="node9" href="$structPadOpVectorizationWithInsertSlicePattern.html" title="Rewrite use of tensor::PadOp result in InsertSliceOp. " alt="" coords="2067,5,2281,47"/>
+<area shape="rect" id="node11" href="$structPadOpVectorizationWithTransferReadPattern.html" title="Rewrite use of tensor::PadOp result in TransferReadOp. " alt="" coords="2059,71,2289,112"/>
+<area shape="rect" id="node13" href="$structPadOpVectorizationWithTransferWritePattern.html" title="Rewrite use of tensor::PadOp result in TransferWriteOp. " alt="" coords="2059,136,2289,177"/>
+</map>

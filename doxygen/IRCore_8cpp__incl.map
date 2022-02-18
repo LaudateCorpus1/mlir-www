@@ -1,0 +1,18 @@
+<map id="lib/Bindings/Python/IRCore.cpp" name="lib/Bindings/Python/IRCore.cpp">
+<area shape="rect" id="node2" href="$IRModule_8h.html" title="IRModule.h" alt="" coords="972,102,1066,129"/>
+<area shape="rect" id="node5" href="$PybindUtils_8h.html" title="PybindUtils.h" alt="" coords="478,184,586,211"/>
+<area shape="rect" id="node15" href="$c_2IR_8h.html" title="mlir&#45;c/IR.h" alt="" coords="1412,333,1500,360"/>
+<area shape="rect" id="node20" href="$Globals_8h.html" title="Globals.h" alt="" coords="491,102,574,129"/>
+<area shape="rect" id="node24" href="$Interop_8h.html" title="mlir&#45;c/Bindings/Python\l/Interop.h" alt="" coords="1459,95,1627,136"/>
+<area shape="rect" id="node28" href="$c_2BuiltinAttributes_8h.html" title="mlir&#45;c/BuiltinAttributes.h" alt="" coords="1684,102,1866,129"/>
+<area shape="rect" id="node29" href="$c_2BuiltinTypes_8h.html" title="mlir&#45;c/BuiltinTypes.h" alt="" coords="1891,102,2046,129"/>
+<area shape="rect" id="node30" href="$Debug_8h.html" title="mlir&#45;c/Debug.h" alt="" coords="468,333,586,360"/>
+<area shape="rect" id="node31" href="$c_2Registration_8h.html" title="mlir&#45;c/Registration.h" alt="" coords="1114,102,1268,129"/>
+<area shape="rect" id="node14" href="$c_2AffineExpr_8h.html" title="mlir&#45;c/AffineExpr.h" alt="" coords="1386,259,1527,285"/>
+<area shape="rect" id="node16" href="$c_2AffineMap_8h.html" title="mlir&#45;c/AffineMap.h" alt="" coords="1704,184,1844,211"/>
+<area shape="rect" id="node17" href="$c_2Diagnostics_8h.html" title="mlir&#45;c/Diagnostics.h" alt="" coords="838,259,989,285"/>
+<area shape="rect" id="node18" href="$c_2IntegerSet_8h.html" title="mlir&#45;c/IntegerSet.h" alt="" coords="1330,184,1473,211"/>
+<area shape="rect" id="node6" href="$c_2Support_8h.html" title="mlir&#45;c/Support.h" alt="" coords="1294,408,1419,435"/>
+<area shape="rect" id="node26" href="$c_2ExecutionEngine_8h.html" title="mlir&#45;c/ExecutionEngine.h" alt="" coords="1712,259,1894,285"/>
+<area shape="rect" id="node27" href="$include_2mlir-c_2Pass_8h.html" title="mlir&#45;c/Pass.h" alt="" coords="1014,259,1118,285"/>
+</map>

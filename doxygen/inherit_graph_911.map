@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1PresburgerSpace.html" title="PresburgerSpace is a tuple of identifiers with information about what kind they correspond to..." alt="" coords="5,81,171,108"/>
+<area shape="rect" id="node2" href="$classmlir_1_1PresburgerLocalSpace.html" title="Extension of PresburgerSpace supporting Local identifiers. " alt="" coords="219,31,417,57"/>
+<area shape="rect" id="node8" href="$classmlir_1_1PresburgerSet.html" title="This class can represent a union of IntegerPolyhedrons, with support for union, intersection, subtraction and complement operations, as well as sampling. " alt="" coords="245,81,391,108"/>
+<area shape="rect" id="node9" href="$classmlir_1_1PWMAFunction.html" title="This class represents a piece&#45;wise MultiAffineFunction. " alt="" coords="243,132,393,159"/>
+<area shape="rect" id="node3" href="$classmlir_1_1IntegerPolyhedron.html" title="An integer polyhedron is the set of solutions to a list of affine constraints over n integer&#45;valued v..." alt="" coords="465,31,640,57"/>
+<area shape="rect" id="node4" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="688,5,880,32"/>
+<area shape="rect" id="node7" href="$classmlir_1_1MultiAffineFunction.html" title="This class represents a multi&#45;affine function whose domain is given by an IntegerPolyhedron. " alt="" coords="694,56,874,83"/>
+<area shape="rect" id="node5" href="$classmlir_1_1FlatAffineValueConstraints.html" title="An extension of FlatAffineConstraints in which dimensions and symbols can optionally be associated wi..." alt="" coords="928,5,1156,32"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FlatAffineRelation.html" title="A FlatAffineRelation represents a set of ordered pairs (domain &#45;&gt; range) where &quot;domain&quot; and &quot;range&quot; a..." alt="" coords="1204,5,1375,32"/>
+</map>

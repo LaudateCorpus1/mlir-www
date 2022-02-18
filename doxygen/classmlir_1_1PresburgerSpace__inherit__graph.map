@@ -1,0 +1,10 @@
+<map id="mlir::PresburgerSpace" name="mlir::PresburgerSpace">
+<area shape="rect" id="node2" href="$classmlir_1_1PresburgerLocalSpace.html" title="Extension of PresburgerSpace supporting Local identifiers. " alt="" coords="125,80,324,107"/>
+<area shape="rect" id="node8" href="$classmlir_1_1PresburgerSet.html" title="This class can represent a union of IntegerPolyhedrons, with support for union, intersection, subtraction and complement operations, as well as sampling. " alt="" coords="349,80,495,107"/>
+<area shape="rect" id="node9" href="$classmlir_1_1PWMAFunction.html" title="This class represents a piece&#45;wise MultiAffineFunction. " alt="" coords="520,80,671,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1IntegerPolyhedron.html" title="An integer polyhedron is the set of solutions to a list of affine constraints over n integer&#45;valued v..." alt="" coords="137,155,312,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="23,229,215,256"/>
+<area shape="rect" id="node7" href="$classmlir_1_1MultiAffineFunction.html" title="This class represents a multi&#45;affine function whose domain is given by an IntegerPolyhedron. " alt="" coords="240,229,420,256"/>
+<area shape="rect" id="node5" href="$classmlir_1_1FlatAffineValueConstraints.html" title="An extension of FlatAffineConstraints in which dimensions and symbols can optionally be associated wi..." alt="" coords="5,304,233,331"/>
+<area shape="rect" id="node6" href="$classmlir_1_1FlatAffineRelation.html" title="A FlatAffineRelation represents a set of ordered pairs (domain &#45;&gt; range) where &quot;domain&quot; and &quot;range&quot; a..." alt="" coords="34,379,205,405"/>
+</map>

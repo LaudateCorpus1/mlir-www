@@ -1,0 +1,4 @@
+<map id="mlir::SimplexBase" name="mlir::SimplexBase">
+<area shape="rect" id="node2" href="$classmlir_1_1LexSimplex.html" title="Simplex class using the lexicographic pivot rule. " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Simplex.html" title="The Simplex class uses the Normal pivot rule and supports integer emptiness checks as well as detecti..." alt="" coords="162,80,271,107"/>
+</map>

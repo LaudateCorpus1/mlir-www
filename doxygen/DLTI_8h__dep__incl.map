@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/DLTI/DLTI.h" name="include/mlir/Dialect/DLTI/DLTI.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node4" href="$DLTI_8cpp.html" title="lib/Dialect/DLTI/DLTI.cpp" alt="" coords="236,102,413,129"/>
+<area shape="rect" id="node5" href="$DLTI_2Traits_8cpp.html" title="lib/Dialect/DLTI/Traits.cpp" alt="" coords="437,102,623,129"/>
+<area shape="rect" id="node6" href="$lib_2Dialect_2GPU_2Transforms_2PassDetail_8h.html" title="lib/Dialect/GPU/Transforms\l/PassDetail.h" alt="" coords="647,95,843,136"/>
+<area shape="rect" id="node8" href="$KernelOutlining_8cpp.html" title="lib/Dialect/GPU/Transforms\l/KernelOutlining.cpp" alt="" coords="783,184,979,225"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="31,184,186,225"/>
+<area shape="rect" id="node7" href="$AsyncRegionRewriter_8cpp.html" title="lib/Dialect/GPU/Transforms\l/AsyncRegionRewriter.cpp" alt="" coords="563,184,759,225"/>
+</map>

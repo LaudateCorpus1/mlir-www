@@ -1,0 +1,29 @@
+<map id="include/mlir/Dialect/Quant/QuantOps.h" name="include/mlir/Dialect/Quant/QuantOps.h">
+<area shape="rect" id="node2" href="$TosaOps_8h.html" title="include/mlir/Dialect\l/Tosa/IR/TosaOps.h" alt="" coords="1544,95,1693,136"/>
+<area shape="rect" id="node14" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="2902,191,3109,218"/>
+<area shape="rect" id="node23" href="$Quant_8cpp.html" title="lib/CAPI/Dialect/Quant.cpp" alt="" coords="2405,102,2597,129"/>
+<area shape="rect" id="node24" href="$QuantOps_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantOps.cpp" alt="" coords="2622,95,2770,136"/>
+<area shape="rect" id="node25" href="$QuantTypes_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantTypes.cpp" alt="" coords="2794,95,2942,136"/>
+<area shape="rect" id="node26" href="$Dialect_2Quant_2IR_2TypeParser_8cpp.html" title="lib/Dialect/Quant/IR\l/TypeParser.cpp" alt="" coords="2966,95,3114,136"/>
+<area shape="rect" id="node27" href="$ConvertConst_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertConst.cpp" alt="" coords="3138,95,3345,136"/>
+<area shape="rect" id="node28" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="3369,95,3575,136"/>
+<area shape="rect" id="node3" href="$include_2mlir_2Dialect_2Tosa_2Transforms_2PassDetail_8h.html" title="include/mlir/Dialect\l/Tosa/Transforms/PassDetail.h" alt="" coords="783,184,998,225"/>
+<area shape="rect" id="node4" href="$TosaToLinalgNamedPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgNamedPass.cpp" alt="" coords="581,273,792,315"/>
+<area shape="rect" id="node5" href="$TosaToLinalgPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgPass.cpp" alt="" coords="817,273,1018,315"/>
+<area shape="rect" id="node6" href="$TosaToSCFPass_8cpp.html" title="lib/Conversion/TosaToSCF\l/TosaToSCFPass.cpp" alt="" coords="1043,273,1229,315"/>
+<area shape="rect" id="node7" href="$TosaToStandardPass_8cpp.html" title="lib/Conversion/TosaToStandard\l/TosaToStandardPass.cpp" alt="" coords="1379,273,1599,315"/>
+<area shape="rect" id="node8" href="$TosaInferShapes_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaInferShapes.cpp" alt="" coords="2091,273,2288,315"/>
+<area shape="rect" id="node9" href="$TosaMakeBroadcastable_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaMakeBroadcastable.cpp" alt="" coords="347,273,557,315"/>
+<area shape="rect" id="node10" href="$TosaOptionalDecompositions_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaOptionalDecompositions.cpp" alt="" coords="2545,273,2788,315"/>
+<area shape="rect" id="node11" href="$QuantUtils_8h.html" title="include/mlir/Dialect\l/Tosa/Utils/QuantUtils.h" alt="" coords="482,184,657,225"/>
+<area shape="rect" id="node12" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="5,273,144,315"/>
+<area shape="rect" id="node16" href="$TosaToLinalg_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalg.cpp" alt="" coords="1074,184,1275,225"/>
+<area shape="rect" id="node17" href="$TosaToLinalgNamed_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgNamed.cpp" alt="" coords="1299,184,1501,225"/>
+<area shape="rect" id="node18" href="$TosaToSCF_8cpp.html" title="lib/Conversion/TosaToSCF\l/TosaToSCF.cpp" alt="" coords="1525,184,1712,225"/>
+<area shape="rect" id="node19" href="$TosaToStandard_8cpp.html" title="lib/Conversion/TosaToStandard\l/TosaToStandard.cpp" alt="" coords="1737,184,1957,225"/>
+<area shape="rect" id="node20" href="$TosaDecomposeConv2D_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaDecomposeConv2D.cpp" alt="" coords="1981,184,2192,225"/>
+<area shape="rect" id="node21" href="$TosaDecomposeDepthwise_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaDecomposeDepthwise.cpp" alt="" coords="2217,184,2445,225"/>
+<area shape="rect" id="node22" href="$TosaDecomposeTransposeConv_8cpp.html" title="lib/Dialect/Tosa/Transforms\l/TosaDecomposeTransposeConv.cpp" alt="" coords="2469,184,2725,225"/>
+<area shape="rect" id="node13" href="$QuantUtils_8cpp.html" title="lib/Dialect/Tosa/Utils\l/QuantUtils.cpp" alt="" coords="168,273,323,315"/>
+<area shape="rect" id="node15" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="2928,273,3083,315"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="include/mlir/Parser.h" name="include/mlir/Parser.h">
+<area shape="rect" id="node2" href="$IR_8cpp.html" title="lib/CAPI/IR/IR.cpp" alt="" coords="150,87,283,114"/>
+<area shape="rect" id="node3" href="$KernelOutlining_8cpp.html" title="lib/Dialect/GPU/Transforms\l/KernelOutlining.cpp" alt="" coords="308,80,504,121"/>
+<area shape="rect" id="node4" href="$LinalgDialect_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgDialect.cpp" alt="" coords="529,80,683,121"/>
+<area shape="rect" id="node5" href="$LinalgOps_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgOps.cpp" alt="" coords="708,80,843,121"/>
+<area shape="rect" id="node6" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVDialect.cpp" alt="" coords="867,80,1014,121"/>
+<area shape="rect" id="node7" href="$JitRunner_8cpp.html" title="lib/ExecutionEngine\l/JitRunner.cpp" alt="" coords="1039,80,1189,121"/>
+<area shape="rect" id="node8" href="$Tools_2PDLL_2Parser_2Lexer_8h.html" title="lib/Tools/PDLL/Parser\l/Lexer.h" alt="" coords="1214,80,1369,121"/>
+<area shape="rect" id="node14" href="$Tools_2PDLL_2Parser_2Parser_8cpp.html" title="lib/Tools/PDLL/Parser\l/Parser.cpp" alt="" coords="766,408,921,449"/>
+<area shape="rect" id="node19" href="$MlirOptMain_8cpp.html" title="lib/Support/MlirOptMain.cpp" alt="" coords="1444,87,1645,114"/>
+<area shape="rect" id="node20" href="$SPIRV_2TranslateRegistration_8cpp.html" title="lib/Target/SPIRV/Translate\lRegistration.cpp" alt="" coords="1670,80,1857,121"/>
+<area shape="rect" id="node21" href="$MLIRServer_8cpp.html" title="lib/Tools/mlir&#45;lsp\l&#45;server/MLIRServer.cpp" alt="" coords="1881,80,2051,121"/>
+<area shape="rect" id="node22" href="$MlirReduceMain_8cpp.html" title="lib/Tools/mlir&#45;reduce\l/MlirReduceMain.cpp" alt="" coords="2075,80,2230,121"/>
+<area shape="rect" id="node23" href="$Translation_8cpp.html" title="lib/Translation/Translation.cpp" alt="" coords="2255,87,2469,114"/>
+<area shape="rect" id="node9" href="$ParserState_8h.html" title="lib/Parser/ParserState.h" alt="" coords="739,177,911,203"/>
+<area shape="rect" id="node18" href="$Tools_2PDLL_2Parser_2Lexer_8cpp.html" title="lib/Tools/PDLL/Parser\l/Lexer.cpp" alt="" coords="1214,169,1369,211"/>
+<area shape="rect" id="node10" href="$lib_2Parser_2Parser_8h.html" title="lib/Parser/Parser.h" alt="" coords="528,259,665,285"/>
+<area shape="rect" id="node11" href="$AffineParser_8cpp.html" title="lib/Parser/AffineParser.cpp" alt="" coords="5,333,196,360"/>
+<area shape="rect" id="node12" href="$AsmParserImpl_8h.html" title="lib/Parser/AsmParserImpl.h" alt="" coords="220,333,416,360"/>
+<area shape="rect" id="node15" href="$AttributeParser_8cpp.html" title="lib/Parser/AttributeParser.cpp" alt="" coords="492,333,701,360"/>
+<area shape="rect" id="node16" href="$LocationParser_8cpp.html" title="lib/Parser/LocationParser.cpp" alt="" coords="725,333,932,360"/>
+<area shape="rect" id="node17" href="$Parser_2TypeParser_8cpp.html" title="lib/Parser/TypeParser.cpp" alt="" coords="956,333,1139,360"/>
+<area shape="rect" id="node13" href="$DialectSymbolParser_8cpp.html" title="lib/Parser/DialectSymbol\lParser.cpp" alt="" coords="227,408,409,449"/>
+</map>

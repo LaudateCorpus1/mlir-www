@@ -1,0 +1,14 @@
+<map id="lib/Transforms/PassDetail.h" name="lib/Transforms/PassDetail.h">
+<area shape="rect" id="node2" href="$Canonicalizer_8cpp.html" title="lib/Transforms/Canonicalizer.cpp" alt="" coords="5,87,237,114"/>
+<area shape="rect" id="node3" href="$ControlFlowSink_8cpp.html" title="lib/Transforms/ControlFlow\lSink.cpp" alt="" coords="261,80,456,121"/>
+<area shape="rect" id="node4" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="480,87,651,114"/>
+<area shape="rect" id="node5" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="675,87,861,114"/>
+<area shape="rect" id="node6" href="$LocationSnapshot_8cpp.html" title="lib/Transforms/LocationSnapshot.cpp" alt="" coords="885,87,1145,114"/>
+<area shape="rect" id="node7" href="$LoopInvariantCodeMotion_8cpp.html" title="lib/Transforms/LoopInvariant\lCodeMotion.cpp" alt="" coords="1169,80,1375,121"/>
+<area shape="rect" id="node8" href="$OpStats_8cpp.html" title="lib/Transforms/OpStats.cpp" alt="" coords="1399,87,1595,114"/>
+<area shape="rect" id="node9" href="$SCCP_8cpp.html" title="lib/Transforms/SCCP.cpp" alt="" coords="1619,87,1797,114"/>
+<area shape="rect" id="node10" href="$StripDebugInfo_8cpp.html" title="lib/Transforms/StripDebug\lInfo.cpp" alt="" coords="1821,80,2011,121"/>
+<area shape="rect" id="node11" href="$SymbolDCE_8cpp.html" title="lib/Transforms/SymbolDCE.cpp" alt="" coords="2036,87,2257,114"/>
+<area shape="rect" id="node12" href="$SymbolPrivatize_8cpp.html" title="lib/Transforms/SymbolPrivatize.cpp" alt="" coords="2281,87,2532,114"/>
+<area shape="rect" id="node13" href="$ViewOpGraph_8cpp.html" title="lib/Transforms/ViewOpGraph.cpp" alt="" coords="2556,87,2791,114"/>
+</map>

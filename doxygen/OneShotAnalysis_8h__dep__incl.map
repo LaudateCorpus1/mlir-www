@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/OneShotAnalysis.h" name="include/mlir/Dialect/Bufferization/Transforms/OneShotAnalysis.h">
+<area shape="rect" id="node2" href="$LinalgInterfaceImpl_8h.html" title="include/mlir/Dialect\l/Linalg/ComprehensiveBufferize\l/LinalgInterfaceImpl.h" alt="" coords="81,109,311,165"/>
+<area shape="rect" id="node4" href="$ComprehensiveBufferizePass_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize\lPass.cpp" alt="" coords="217,213,479,269"/>
+<area shape="rect" id="node5" href="$SCF_2BufferizableOpInterfaceImpl_8h.html" title="include/mlir/Dialect\l/SCF/BufferizableOpInterface\lImpl.h" alt="" coords="385,109,593,165"/>
+<area shape="rect" id="node7" href="$OneShotAnalysis_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/OneShotAnalysis.cpp" alt="" coords="618,117,857,158"/>
+<area shape="rect" id="node8" href="$ModuleBufferization_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/ModuleBufferization.cpp" alt="" coords="881,109,1068,165"/>
+<area shape="rect" id="node3" href="$LinalgInterfaceImpl_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/LinalgInterfaceImpl.cpp" alt="" coords="5,213,192,269"/>
+<area shape="rect" id="node6" href="$SCF_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/SCF/Transforms\l/BufferizableOpInterfaceImpl.cpp" alt="" coords="503,221,739,262"/>
+</map>

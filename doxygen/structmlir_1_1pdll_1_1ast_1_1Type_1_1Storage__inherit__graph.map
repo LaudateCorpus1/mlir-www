@@ -1,0 +1,21 @@
+<map id="mlir::pdll::ast::Type::Storage" name="mlir::pdll::ast::Type::Storage">
+<area shape="rect" id="node3" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="A utility CRTP base class that defines many of the necessary utilities for defining a PDLL AST Type..." alt="" coords="408,349,635,405"/>
+<area shape="rect" id="node4" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; ValueType\lStorage \&gt;" alt="" coords="957,5,1179,61"/>
+<area shape="rect" id="node6" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; Attribute\lTypeStorage \&gt;" alt="" coords="961,93,1175,149"/>
+<area shape="rect" id="node8" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; RewriteType\lStorage \&gt;" alt="" coords="950,189,1186,245"/>
+<area shape="rect" id="node10" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; Operation\lTypeStorage, StringRef \&gt;" alt="" coords="957,300,1179,356"/>
+<area shape="rect" id="node12" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; RangeType\lStorage, Type \&gt;" alt="" coords="954,468,1182,524"/>
+<area shape="rect" id="node14" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; Constraint\lTypeStorage \&gt;" alt="" coords="956,383,1180,439"/>
+<area shape="rect" id="node16" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; TupleType\lStorage, std::pair\&lt; ArrayRef\l\&lt; Type \&gt;, ArrayRef\&lt; StringRef \&gt; \&gt; \&gt;" alt="" coords="935,559,1201,630"/>
+<area shape="rect" id="node18" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase.html" title="mlir::pdll::ast::detail\l::TypeStorageBase\&lt; TypeTypeStorage \&gt;" alt="" coords="927,674,1209,715"/>
+<area shape="rect" id="node20" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeStorageBase_3_01ConcreteT_00_01void_01_4.html" title="A specialization of the storage base for singleton types. " alt="" coords="408,747,635,803"/>
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,409,163,450"/>
+<area shape="rect" id="node5" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1ValueTypeStorage.html" title="mlir::pdll::ast::detail\l::ValueTypeStorage" alt="" coords="1271,13,1424,54"/>
+<area shape="rect" id="node7" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1AttributeTypeStorage.html" title="mlir::pdll::ast::detail\l::AttributeTypeStorage" alt="" coords="1264,101,1431,142"/>
+<area shape="rect" id="node9" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1RewriteTypeStorage.html" title="mlir::pdll::ast::detail\l::RewriteTypeStorage" alt="" coords="1268,197,1427,238"/>
+<area shape="rect" id="node11" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1OperationTypeStorage.html" title="mlir::pdll::ast::detail\l::OperationTypeStorage" alt="" coords="1260,307,1435,349"/>
+<area shape="rect" id="node13" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1RangeTypeStorage.html" title="mlir::pdll::ast::detail\l::RangeTypeStorage" alt="" coords="1271,475,1424,517"/>
+<area shape="rect" id="node15" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1ConstraintTypeStorage.html" title="mlir::pdll::ast::detail\l::ConstraintTypeStorage" alt="" coords="1259,390,1436,431"/>
+<area shape="rect" id="node17" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TupleTypeStorage.html" title="mlir::pdll::ast::detail\l::TupleTypeStorage" alt="" coords="1271,574,1424,615"/>
+<area shape="rect" id="node19" href="$structmlir_1_1pdll_1_1ast_1_1detail_1_1TypeTypeStorage.html" title="mlir::pdll::ast::detail\l::TypeTypeStorage" alt="" coords="1271,674,1424,715"/>
+</map>

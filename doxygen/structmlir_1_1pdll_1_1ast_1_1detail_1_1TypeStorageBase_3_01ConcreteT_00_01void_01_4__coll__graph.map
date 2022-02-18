@@ -1,0 +1,5 @@
+<map id="mlir::pdll::ast::detail::TypeStorageBase&lt; ConcreteT, void &gt;" name="mlir::pdll::ast::detail::TypeStorageBase&lt; ConcreteT, void &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1pdll_1_1ast_1_1Type_1_1Storage.html" title="mlir::pdll::ast::Type\l::Storage" alt="" coords="87,109,233,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1TypeID.html" title="This class provides an efficient unique identifier for a specific C++ type. " alt="" coords="187,13,287,39"/>
+</map>

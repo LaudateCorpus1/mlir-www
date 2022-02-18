@@ -1,0 +1,4 @@
+<map id="mlir::bufferization::BufferizationState" name="mlir::bufferization::BufferizationState">
+<area shape="rect" id="node2" href="$classmlir_1_1bufferization_1_1AlwaysCopyBufferizationState.html" title="This a &quot;no analysis, always copy&quot; BufferizationState. " alt="" coords="200,5,427,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1bufferization_1_1AnalysisBufferizationState.html" title="State for analysis&#45;enabled bufferization. " alt="" coords="212,71,415,112"/>
+</map>

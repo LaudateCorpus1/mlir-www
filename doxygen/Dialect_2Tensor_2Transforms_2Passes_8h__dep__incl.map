@@ -1,0 +1,6 @@
+<map id="include/mlir/Dialect/Tensor/Transforms/Passes.h" name="include/mlir/Dialect/Tensor/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,102,203,129"/>
+<area shape="rect" id="node4" href="$SparseTensorPipelines_8cpp.html" title="lib/Dialect/SparseTensor\l/Pipelines/SparseTensorPipelines.cpp" alt="" coords="227,95,488,136"/>
+<area shape="rect" id="node5" href="$Tensor_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/Bufferize.cpp" alt="" coords="512,95,699,136"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="27,184,181,225"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="include/mlir/Dialect/Affine/Passes.h" name="include/mlir/Dialect/Affine/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="15,102,212,129"/>
+<area shape="rect" id="node4" href="$lib_2Dialect_2Affine_2Transforms_2PassDetail_8h.html" title="lib/Dialect/Affine\l/Transforms/PassDetail.h" alt="" coords="1683,95,1866,136"/>
+<area shape="rect" id="node5" href="$AffineDataCopyGeneration_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineDataCopy\lGeneration.cpp" alt="" coords="185,184,389,240"/>
+<area shape="rect" id="node6" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="413,184,643,240"/>
+<area shape="rect" id="node7" href="$AffineLoopNormalize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopNormalize.cpp" alt="" coords="667,191,933,233"/>
+<area shape="rect" id="node8" href="$AffineParallelize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineParallelize.cpp" alt="" coords="957,191,1192,233"/>
+<area shape="rect" id="node9" href="$AffineScalarReplacement_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineScalarReplacement.cpp" alt="" coords="1217,191,1509,233"/>
+<area shape="rect" id="node12" href="$LoopTiling_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopTiling.cpp" alt="" coords="2551,191,2747,233"/>
+<area shape="rect" id="node13" href="$LoopUnroll_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnroll.cpp" alt="" coords="2771,191,2970,233"/>
+<area shape="rect" id="node14" href="$LoopUnrollAndJam_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnrollAndJam.cpp" alt="" coords="2994,191,3243,233"/>
+<area shape="rect" id="node16" href="$SimplifyAffineStructures_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SimplifyAffine\lStructures.cpp" alt="" coords="3268,184,3463,240"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="5,191,160,233"/>
+<area shape="rect" id="node10" href="$LoopCoalescing_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopCoalescing.cpp" alt="" coords="2071,191,2302,233"/>
+<area shape="rect" id="node11" href="$LoopFusion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopFusion.cpp" alt="" coords="2326,191,2527,233"/>
+<area shape="rect" id="node15" href="$PipelineDataTransfer_8cpp.html" title="lib/Dialect/Affine\l/Transforms/PipelineDataTransfer.cpp" alt="" coords="1533,191,1795,233"/>
+<area shape="rect" id="node17" href="$SuperVectorize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SuperVectorize.cpp" alt="" coords="1820,191,2047,233"/>
+</map>

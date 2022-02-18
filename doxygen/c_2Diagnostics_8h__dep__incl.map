@@ -1,0 +1,13 @@
+<map id="include/mlir&#45;c/Diagnostics.h" name="include/mlir&#45;c/Diagnostics.h">
+<area shape="rect" id="node2" href="$CAPI_2Diagnostics_8h.html" title="include/mlir/CAPI/Diagnostics.h" alt="" coords="5,87,231,114"/>
+<area shape="rect" id="node3" href="$CAPI_2IR_2Diagnostics_8cpp.html" title="lib/CAPI/IR/Diagnostics.cpp" alt="" coords="20,177,216,203"/>
+<area shape="rect" id="node4" href="$IRModule_8h.html" title="lib/Bindings/Python\l/IRModule.h" alt="" coords="753,80,899,121"/>
+<area shape="rect" id="node5" href="$IRAffine_8cpp.html" title="lib/Bindings/Python\l/IRAffine.cpp" alt="" coords="241,169,387,211"/>
+<area shape="rect" id="node6" href="$IRAttributes_8cpp.html" title="lib/Bindings/Python\l/IRAttributes.cpp" alt="" coords="411,169,558,211"/>
+<area shape="rect" id="node7" href="$IRCore_8cpp.html" title="lib/Bindings/Python\l/IRCore.cpp" alt="" coords="582,169,729,211"/>
+<area shape="rect" id="node8" href="$IRInterfaces_8cpp.html" title="lib/Bindings/Python\l/IRInterfaces.cpp" alt="" coords="753,169,899,211"/>
+<area shape="rect" id="node9" href="$IRModule_8cpp.html" title="lib/Bindings/Python\l/IRModule.cpp" alt="" coords="923,169,1070,211"/>
+<area shape="rect" id="node10" href="$IRTypes_8cpp.html" title="lib/Bindings/Python\l/IRTypes.cpp" alt="" coords="1094,169,1241,211"/>
+<area shape="rect" id="node11" href="$MainModule_8cpp.html" title="lib/Bindings/Python\l/MainModule.cpp" alt="" coords="1265,169,1411,211"/>
+<area shape="rect" id="node12" href="$Bindings_2Python_2Pass_8cpp.html" title="lib/Bindings/Python\l/Pass.cpp" alt="" coords="1435,169,1582,211"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="include/mlir/Transforms/Passes.h" name="include/mlir/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,109,203,136"/>
+<area shape="rect" id="node4" href="$Transforms_2Passes_8cpp.html" title="lib/CAPI/Transforms\l/Passes.cpp" alt="" coords="227,102,375,143"/>
+<area shape="rect" id="node5" href="$AffineToStandard_8cpp.html" title="lib/Conversion/AffineToStandard\l/AffineToStandard.cpp" alt="" coords="400,102,629,143"/>
+<area shape="rect" id="node6" href="$LinalgToLLVM_8cpp.html" title="lib/Conversion/LinalgToLLVM\l/LinalgToLLVM.cpp" alt="" coords="653,102,859,143"/>
+<area shape="rect" id="node7" href="$SCFToControlFlow_8cpp.html" title="lib/Conversion/SCFToControl\lFlow/SCFToControlFlow.cpp" alt="" coords="883,102,1087,143"/>
+<area shape="rect" id="node8" href="$SCFToGPU_8cpp.html" title="lib/Conversion/SCFToGPU\l/SCFToGPU.cpp" alt="" coords="1111,102,1297,143"/>
+<area shape="rect" id="node9" href="$StandardToLLVM_8cpp.html" title="lib/Conversion/StandardTo\lLLVM/StandardToLLVM.cpp" alt="" coords="1321,102,1511,143"/>
+<area shape="rect" id="node10" href="$TosaToLinalgPass_8cpp.html" title="lib/Conversion/TosaToLinalg\l/TosaToLinalgPass.cpp" alt="" coords="1535,102,1737,143"/>
+<area shape="rect" id="node11" href="$VectorToGPU_8cpp.html" title="lib/Conversion/VectorToGPU\l/VectorToGPU.cpp" alt="" coords="1761,102,1964,143"/>
+<area shape="rect" id="node12" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="1989,102,2187,143"/>
+<area shape="rect" id="node13" href="$LoopCoalescing_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopCoalescing.cpp" alt="" coords="2211,102,2442,143"/>
+<area shape="rect" id="node14" href="$LoopFusion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopFusion.cpp" alt="" coords="2466,102,2667,143"/>
+<area shape="rect" id="node15" href="$PipelineDataTransfer_8cpp.html" title="lib/Dialect/Affine\l/Transforms/PipelineDataTransfer.cpp" alt="" coords="2691,102,2954,143"/>
+<area shape="rect" id="node16" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="2978,102,3217,143"/>
+<area shape="rect" id="node17" href="$ComprehensiveBufferizePass_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize\lPass.cpp" alt="" coords="3241,95,3503,151"/>
+<area shape="rect" id="node18" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="3527,95,3723,151"/>
+<area shape="rect" id="node19" href="$lib_2Transforms_2PassDetail_8h.html" title="lib/Transforms/PassDetail.h" alt="" coords="4001,109,4199,136"/>
+<area shape="rect" id="node20" href="$Canonicalizer_8cpp.html" title="lib/Transforms/Canonicalizer.cpp" alt="" coords="2736,206,2968,233"/>
+<area shape="rect" id="node21" href="$ControlFlowSink_8cpp.html" title="lib/Transforms/ControlFlow\lSink.cpp" alt="" coords="2992,199,3187,240"/>
+<area shape="rect" id="node22" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="3211,206,3381,233"/>
+<area shape="rect" id="node23" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="3406,206,3591,233"/>
+<area shape="rect" id="node25" href="$LoopInvariantCodeMotion_8cpp.html" title="lib/Transforms/LoopInvariant\lCodeMotion.cpp" alt="" coords="3615,199,3822,240"/>
+<area shape="rect" id="node26" href="$OpStats_8cpp.html" title="lib/Transforms/OpStats.cpp" alt="" coords="4389,206,4585,233"/>
+<area shape="rect" id="node27" href="$SCCP_8cpp.html" title="lib/Transforms/SCCP.cpp" alt="" coords="4609,206,4786,233"/>
+<area shape="rect" id="node28" href="$StripDebugInfo_8cpp.html" title="lib/Transforms/StripDebug\lInfo.cpp" alt="" coords="4810,199,5001,240"/>
+<area shape="rect" id="node29" href="$SymbolDCE_8cpp.html" title="lib/Transforms/SymbolDCE.cpp" alt="" coords="5025,206,5247,233"/>
+<area shape="rect" id="node30" href="$SymbolPrivatize_8cpp.html" title="lib/Transforms/SymbolPrivatize.cpp" alt="" coords="5271,206,5521,233"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="27,199,181,240"/>
+<area shape="rect" id="node24" href="$LocationSnapshot_8cpp.html" title="lib/Transforms/LocationSnapshot.cpp" alt="" coords="4105,206,4365,233"/>
+<area shape="rect" id="node31" href="$ViewOpGraph_8cpp.html" title="lib/Transforms/ViewOpGraph.cpp" alt="" coords="3847,206,4081,233"/>
+</map>

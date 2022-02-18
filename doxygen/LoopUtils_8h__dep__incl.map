@@ -1,0 +1,17 @@
+<map id="include/mlir/Dialect/Affine/LoopUtils.h" name="include/mlir/Dialect/Affine/LoopUtils.h">
+<area shape="rect" id="node2" href="$AffineDataCopyGeneration_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineDataCopy\lGeneration.cpp" alt="" coords="5,95,209,151"/>
+<area shape="rect" id="node3" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="234,95,463,151"/>
+<area shape="rect" id="node4" href="$AffineParallelize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineParallelize.cpp" alt="" coords="487,102,722,143"/>
+<area shape="rect" id="node5" href="$LoopCoalescing_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopCoalescing.cpp" alt="" coords="747,102,977,143"/>
+<area shape="rect" id="node6" href="$LoopFusion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopFusion.cpp" alt="" coords="1001,102,1203,143"/>
+<area shape="rect" id="node7" href="$LoopTiling_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopTiling.cpp" alt="" coords="1227,102,1423,143"/>
+<area shape="rect" id="node8" href="$LoopUnroll_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnroll.cpp" alt="" coords="1447,102,1645,143"/>
+<area shape="rect" id="node9" href="$LoopUnrollAndJam_8cpp.html" title="lib/Dialect/Affine\l/Transforms/LoopUnrollAndJam.cpp" alt="" coords="1669,102,1919,143"/>
+<area shape="rect" id="node10" href="$PipelineDataTransfer_8cpp.html" title="lib/Dialect/Affine\l/Transforms/PipelineDataTransfer.cpp" alt="" coords="1943,102,2205,143"/>
+<area shape="rect" id="node11" href="$LoopFusionUtils_8cpp.html" title="lib/Dialect/Affine\l/Utils/LoopFusionUtils.cpp" alt="" coords="2230,102,2419,143"/>
+<area shape="rect" id="node12" href="$LoopUtils_8cpp.html" title="lib/Dialect/Affine\l/Utils/LoopUtils.cpp" alt="" coords="2444,102,2592,143"/>
+<area shape="rect" id="node13" href="$Dialect_2Affine_2Utils_2Utils_8cpp.html" title="lib/Dialect/Affine\l/Utils/Utils.cpp" alt="" coords="2617,102,2747,143"/>
+<area shape="rect" id="node14" href="$MemoryPromotion_8cpp.html" title="lib/Dialect/GPU/Transforms\l/MemoryPromotion.cpp" alt="" coords="2772,102,2968,143"/>
+<area shape="rect" id="node15" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="2992,95,3188,151"/>
+<area shape="rect" id="node16" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="3213,102,3343,143"/>
+</map>

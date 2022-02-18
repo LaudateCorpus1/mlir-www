@@ -1,0 +1,6 @@
+<map id="mlir::pdll::ast::AttributeType" name="mlir::pdll::ast::AttributeType">
+<area shape="rect" id="node2" href="$classmlir_1_1pdll_1_1ast_1_1Type_1_1TypeBase.html" title="mlir::pdll::ast::Type\l::TypeBase\&lt; detail::Attribute\lTypeStorage \&gt;" alt="" coords="5,185,215,241"/>
+<area shape="rect" id="node3" href="$classmlir_1_1pdll_1_1ast_1_1Type.html" title="mlir::pdll::ast::Type" alt="" coords="15,89,162,115"/>
+<area shape="rect" id="node4" href="$classmlir_1_1pdll_1_1ast_1_1Type_1_1TypeBase.html" title="This class provides several utilities when defining derived type classes. " alt="" coords="187,81,393,123"/>
+<area shape="rect" id="node5" href="$classBaseT.html" title="BaseT" alt="" coords="259,5,321,32"/>
+</map>

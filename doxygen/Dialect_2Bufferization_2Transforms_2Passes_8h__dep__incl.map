@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/Passes.h" name="include/mlir/Dialect/Bufferization/Transforms/Passes.h">
+<area shape="rect" id="node2" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,124,203,151"/>
+<area shape="rect" id="node4" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="227,117,477,158"/>
+<area shape="rect" id="node5" href="$Bufferization_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/Bufferize.cpp" alt="" coords="501,117,688,158"/>
+<area shape="rect" id="node6" href="$BufferOptimizations_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferOptimizations.cpp" alt="" coords="712,117,971,158"/>
+<area shape="rect" id="node7" href="$BufferResultsToOutParams_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferResultsToOut\lParams.cpp" alt="" coords="994,109,1219,165"/>
+<area shape="rect" id="node8" href="$SparseTensorPipelines_8cpp.html" title="lib/Dialect/SparseTensor\l/Pipelines/SparseTensorPipelines.cpp" alt="" coords="1243,117,1504,158"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="27,213,181,255"/>
+</map>

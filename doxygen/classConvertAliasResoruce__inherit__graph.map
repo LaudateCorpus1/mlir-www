@@ -1,0 +1,17 @@
+<map id="ConvertAliasResoruce&lt; OpTy &gt;" name="ConvertAliasResoruce&lt; OpTy &gt;">
+<area shape="rect" id="node7" href="$classConvertAliasResoruce.html" title="ConvertAliasResoruce\l\&lt; spirv::GlobalVariableOp \&gt;" alt="" coords="1531,5,1735,47"/>
+<area shape="rect" id="node9" href="$classConvertAliasResoruce.html" title="ConvertAliasResoruce\l\&lt; spirv::AccessChainOp \&gt;" alt="" coords="1537,71,1728,112"/>
+<area shape="rect" id="node11" href="$classConvertAliasResoruce.html" title="ConvertAliasResoruce\l\&lt; spirv::AddressOfOp \&gt;" alt="" coords="1545,136,1721,177"/>
+<area shape="rect" id="node13" href="$classConvertAliasResoruce.html" title="ConvertAliasResoruce\l\&lt; spirv::StoreOp \&gt;" alt="" coords="1551,201,1715,243"/>
+<area shape="rect" id="node15" href="$classConvertAliasResoruce.html" title="ConvertAliasResoruce\l\&lt; spirv::LoadOp \&gt;" alt="" coords="1551,267,1715,308"/>
+<area shape="rect" id="node2" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; OpTy \&gt;" alt="" coords="889,136,1083,177"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="357,143,532,170"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="581,165,775,207"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,143,308,170"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,143,108,170"/>
+<area shape="rect" id="node8" href="$structConvertVariable.html" title="ConvertVariable" alt="" coords="1798,13,1925,39"/>
+<area shape="rect" id="node10" href="$structConvertAccessChain.html" title="ConvertAccessChain" alt="" coords="1784,78,1939,105"/>
+<area shape="rect" id="node12" href="$structConvertAddressOf.html" title="ConvertAddressOf" alt="" coords="1791,143,1931,170"/>
+<area shape="rect" id="node14" href="$structConvertStore.html" title="ConvertStore" alt="" coords="1808,209,1915,235"/>
+<area shape="rect" id="node16" href="$structConvertLoad.html" title="ConvertLoad" alt="" coords="1809,274,1913,301"/>
+</map>

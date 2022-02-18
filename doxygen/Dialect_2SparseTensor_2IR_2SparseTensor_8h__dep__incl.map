@@ -1,0 +1,14 @@
+<map id="include/mlir/Dialect/SparseTensor/IR/SparseTensor.h" name="include/mlir/Dialect/SparseTensor/IR/SparseTensor.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node4" href="$SparseTensor_8cpp.html" title="lib/CAPI/Dialect/SparseTensor.cpp" alt="" coords="236,102,475,129"/>
+<area shape="rect" id="node5" href="$LinalgOps_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgOps.cpp" alt="" coords="499,95,633,136"/>
+<area shape="rect" id="node6" href="$ElementwiseOpFusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseOpFusion.cpp" alt="" coords="658,95,930,136"/>
+<area shape="rect" id="node7" href="$SparseTensorDialect_8cpp.html" title="lib/Dialect/SparseTensor\l/IR/SparseTensorDialect.cpp" alt="" coords="954,95,1157,136"/>
+<area shape="rect" id="node8" href="$SparseTensorPipelines_8cpp.html" title="lib/Dialect/SparseTensor\l/Pipelines/SparseTensorPipelines.cpp" alt="" coords="1181,95,1442,136"/>
+<area shape="rect" id="node9" href="$CodegenUtils_8h.html" title="lib/Dialect/SparseTensor\l/Transforms/CodegenUtils.h" alt="" coords="1517,95,1719,136"/>
+<area shape="rect" id="node11" href="$SparseTensorConversion_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorConversion.cpp" alt="" coords="1198,184,1486,225"/>
+<area shape="rect" id="node12" href="$Sparsification_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/Sparsification.cpp" alt="" coords="1751,184,1968,225"/>
+<area shape="rect" id="node13" href="$Dialect_2SparseTensor_2Transforms_2SparseTensorPasses_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorPasses.cpp" alt="" coords="1794,95,2053,136"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="31,184,186,225"/>
+<area shape="rect" id="node10" href="$CodegenUtils_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/CodegenUtils.cpp" alt="" coords="1510,184,1726,225"/>
+</map>
